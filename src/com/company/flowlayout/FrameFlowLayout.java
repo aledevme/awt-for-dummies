@@ -19,7 +19,6 @@ public class FrameFlowLayout extends Panel{
 
         Panel panel2 = new Panel();
         panel2.setSize(50,50);
-
         add(panel1);
         add(panel2);
 
